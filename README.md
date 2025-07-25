@@ -39,6 +39,7 @@ This project is a simple web application for predicting fraudulent transactions 
 
 ## Deployment
 You can deploy this app to platforms like Heroku using the provided `procfile` and `setup.sh`.
+Deployment -https://frauddetection12.streamlit.app/
 
 ## License
 This project is for educational purposes.
